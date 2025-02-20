@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ permalink: /about/
 
 <be>
   
-  ## About me &#128513;
+ 
   <p>
   <b>
   I'm an Computer science student specialising in the Internet of Things currently in my 4th year at South East Technological 
