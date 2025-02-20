@@ -3,14 +3,19 @@ layout: post
 title: Innovating Accessibility: An Autonomous Guide for the Visually Impaired
 ---
 
-Welcome to my project blog! Here, I share insights and updates on my final year project which focuses on creating an innovative solution for visually impaired (VI) individuals.
+**Academic Title** 
+Autonomous Robot Guide Dog 
 
-In 2010, the World Health Organization (WHO) reported that approximately 285 million people are visually impaired worldwide, with 39 million among them being completely blind. Blindness significantly affects quality of life, reducing independence for daily activities. Traditionally, guide dogs have provided immense support, enhancing mobility and independence for visually impaired persons. However, the demand for guide dogs far outstrips supply, with waiting times for a trained dog exceeding 18 months.
-
+**Commercial Title** 
+C.A.R.E Canine
 
 **Project Aim:**  
-My project aims to explore a cutting-edge solution to this problem by integrating advanced robotics with artificial intelligence. The goal is to develop a viable alternative to the traditional guide dog, using Unitree’s Go2 Robot dog equipped with an AI-based object detection system. This system will enable the robot to make safe navigation decisions, particularly in complex urban environments like crossing busy streets at traffic signals.
+My project aims to explore a cutting-edge solution to this problem by integrating advanced robotics with artificial intelligence. The goal of this project is to offer an alternative to the traditional Guide Dog, an artificial companion that will help there partner get around safely, traversing public environments and helping to avoid any objects or potential hazards along the way. The main component of this project is the Go2, a quad pedal robot developed by the robotics company Unitree. A Custom trained Object detection model will use the Go2’s high resolution camera to detect the changing of Red to Green, and Green to Red at a pedestrian crossing. This Project is broken down into three development phases 1: Local Prototype, Partial Integration with Go2, 3: Fully integrated with Go2. Other similar autonomous guide dog projects do already exist, nearly all have one or more drawbacks that will be addressed further down in this report.
 
-**Commercial Potential:**  
-In addition to its primary function, this project investigates the commercial potential of such autonomous guide dogs. Could they be a sustainable, effective alternative in aiding visually impaired people?
-
+**Technology Used:**
+<br>
+•	Unitree’s Go2 Robot Dog
+•	TensorFlow Api
+•	Python
+•	Docker
+•	WebRTC
