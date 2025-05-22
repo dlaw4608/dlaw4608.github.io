@@ -14,9 +14,13 @@ This project delivers the first-ever micro:bit extension for accessing and contr
 
 **Project Poster**
 <p align="center">
-  <img src="{{ site.baseurl }}/images/CARE-CANINE (1).png" alt="Database schema">
+  <img src="{{ site.baseurl }}/images/CARE-CANINE(1).png" alt="Database schema">
 </p>
 
+**Structure Diagram**
+<p align="center">
+  <img src="{{ site.baseurl }}/images/structure_diagram.png" alt="Database schema">
+</p>
 **Technology Used**
 <br>
 •	Unitree’s Go2 Robot Dog
@@ -26,3 +30,16 @@ This project delivers the first-ever micro:bit extension for accessing and contr
 •	Teachable Machine
 •	micro:bit
 
+**Features included** 
+•	Includes a fully equipped micro:bit abstraction layer. Check out the Github Repository to see for yourself.
+<p align="center">
+  <img src="{{ site.baseurl }}/images/front_end.png" alt="Database schema">
+</p>
+•	A WebRTC driven backend that allows for commuincation between the Go2 and user.
+<p align="center">
+  <img src="{{ site.baseurl }}/images/webRTC.png" alt="Database schema">
+</p>
+•	Utilises Teachable Machine so that users can quicky train up an object detection model and use it to give commands to the dogs.
+<p align="center">
+  <img src="{{ site.baseurl }}/images/teachable_machine.png" alt="Database schema">
+</p>
