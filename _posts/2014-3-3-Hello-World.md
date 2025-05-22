@@ -23,14 +23,14 @@ This project delivers the first-ever **micro:bit extension** for accessing and c
 
 ### Project Poster
 <p align="center">
-  <img src="{{ '/assets/images/care_canine.png' | relative_url }}" alt="Project Poster" width="80%">
+  <img src="{{ 'images/care_canine.png' | relative_url }}" alt="Project Poster" width="80%">
 </p>
 
 ---
 
 ### Structure Diagram
 <p align="center">
-  <img src="{{ '/assets/images/structure_diagram.png' | relative_url }}" alt="Structure Diagram" width="80%">
+  <img src="{{ 'images/structure_diagram.png' | relative_url }}" alt="Structure Diagram" width="80%">
 </p>
 
 ---
@@ -52,7 +52,7 @@ Includes a fully equipped abstraction layer to allow users to control the robot 
 👉 [View the micro:bit extension on GitHub](https://github.com/dlaw4608/pxt-Go2_extension)
 
 <p align="center">
-  <img src="{{ '/assets/images/front_end.png' | relative_url }}" alt="Micro:bit front end diagram" width="70%">
+  <img src="{{ 'images/front_end.png' | relative_url }}" alt="Micro:bit front end diagram" width="70%">
 </p>
 
 
@@ -62,7 +62,7 @@ Includes a fully equipped abstraction layer to allow users to control the robot 
 A real-time backend system using WebRTC to allow seamless communication between the Go2 and user.  
 👉 [View the WebRTC driver on GitHub](https://github.com/dlaw4608/C.A.R.E-Canine)
 <p align="center">
-  <img src="{{ '/assets/images/webRTC.png' | relative_url }}" alt="WebRTC Architecture" width="70%">
+  <img src="{{ 'images/webRTC.png' | relative_url }}" alt="WebRTC Architecture" width="70%">
 </p>
 
 ---
@@ -70,7 +70,7 @@ A real-time backend system using WebRTC to allow seamless communication between 
 #### Teachable Machine Integration
 Utilises Google's Teachable Machine so users can train an object detection model and use it to command the robot.  
 <p align="center">
-  <img src="{{ '/assets/images/teachable_machine.png' | relative_url }}" alt="Teachable Machine Workflow" width="70%">
+  <img src="{{ 'images/teachable_machine.png' | relative_url }}" alt="Teachable Machine Workflow" width="70%">
 </p>
 
 ---
