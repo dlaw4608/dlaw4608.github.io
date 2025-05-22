@@ -3,8 +3,8 @@ layout: post
 title: C.A.R.E Canine 
 ---
 
-# C.A.R.E Canine  
-## A Customisable Assistive Robotic Ecosystem
+ 
+
 
 ---
 
