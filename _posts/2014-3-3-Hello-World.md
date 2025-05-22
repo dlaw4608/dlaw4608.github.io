@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C.A.R.E Canine - The first Customisable Assistive Robotic Ecosystem desinged for the Go2
+title: C.A.R.E Canine 
 ---
 
 **Academic Title** 
